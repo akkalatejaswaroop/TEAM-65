@@ -1,6 +1,6 @@
-# 🚑 Quantum-AI Emergency Vehicle Routing & Traffic Optimization System
+#  Quantum-AI Emergency Vehicle Routing & Traffic Optimization System
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Emergency response systems such as ambulances, fire trucks, and disaster relief vehicles operate in highly time-critical and unpredictable environments. In urban cities, especially during peak hours, emergency vehicles face major challenges such as:
 
