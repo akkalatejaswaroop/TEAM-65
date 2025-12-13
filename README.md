@@ -16,7 +16,7 @@
 ---
 
 ## 📸 Visual Demo
-> *(Add screenshots / GIFs here)*
+> ![Dashboard Screenshot](https://raw.githubusercontent.com/akkalatejaswaroop/TEAM-65/main/images/dashboard.png)
 
 - Live Google Map of Vijayawada city  
 - Traffic heatmap visualization  
