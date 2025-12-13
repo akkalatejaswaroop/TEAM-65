@@ -16,7 +16,7 @@
 ---
 
 ## 📸 Visual Demo
-![Dashboard Screenshot](images/hsckthon.jpeg)
+![Dashboard](hsckthon.jpeg)
 
 - Live Google Map of Vijayawada city  
 - Traffic heatmap visualization  
