@@ -11,7 +11,6 @@ def create_city_graph(city_name="Vijayawada"):
     
     nodes = {}
     edges = []
-    
     if city_name == "Vijayawada":
         nodes = {
             "Benz Circle": (16.5003, 80.6534),
@@ -98,3 +97,4 @@ def update_graph_weather_traffic(G, api_wrapper=None):
     Updates graph using external API wrapper if valid.
     """
     pass
+
