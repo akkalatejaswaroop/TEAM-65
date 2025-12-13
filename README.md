@@ -94,7 +94,7 @@ This system dynamically recalculates routes at every interaction point, ensuring
 ---
 
 ## 🔗 Live Demo / Video
-🔗 *To be added (Google Drive / YouTube / Streamlit URL)*
+[![Watch the video](https://img.youtube.com/vi/uRXWX_vxIJo/0.jpg)](https://youtu.be/uRXWX_vxIJo)
 
 ---
 
