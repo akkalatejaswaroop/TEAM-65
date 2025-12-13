@@ -15,8 +15,7 @@
 
 ---
 
-
-> ## 📸 Visual Demo
+## 📸 Visual Demo
 ![Dashboard Screenshot](images/hsckthon.jpeg)
 
 - Live Google Map of Vijayawada city  
