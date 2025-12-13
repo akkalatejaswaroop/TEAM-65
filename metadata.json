@@ -1,0 +1,5 @@
+{
+  "name": "Quantum-AI Railway Scheduler",
+  "description": "A production-grade, scalable system using AI and quantum-inspired optimization for railway scheduling, collision avoidance, and real-time decision support.",
+  "requestFramePermissions": []
+}
